@@ -1,0 +1,1 @@
+TOKEN = "Discord devolper portal bot token here"
